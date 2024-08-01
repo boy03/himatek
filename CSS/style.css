@@ -263,7 +263,7 @@ body {
 
 /* footer */
 .footer {
-  margin-top: 90vh;
+/*   margin-top: 90vh; */
   padding-top: 5px;
   padding-bottom: 5px;
   background: linear-gradient(to right, #000000, #ffffff, rgb(0, 0, 0));
