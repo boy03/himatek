@@ -17,7 +17,7 @@ Website ini merupakan platform resmi HIMTEK yang bertujuan untuk:
    - Visi & Misi Program Studi Teknik Komputer S1
 
 3. **Galeri**
-   - Foto kegiatan HIMTEK tahun 2022 dan 2023
+   - Foto kegiatan HIMTEK tahun 2022, 2023, dan 2024
 
 4. **Kontak**
    - Form input (Nama, Email, Pesan)
